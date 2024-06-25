@@ -13,7 +13,7 @@ Oii, muito prazer! 🖖🏾
 
 Eu me chamo Christopher, atualmente sou um profissional de vendas com 11 anos de experiência comercial (Atuo com vendas desde os 12 anos de idade); E 5 anos de experiência no modelo de Inside Sales, focado em empresas de tecnologia.
 
-Minha atuação como IS sempre foi focado em empresas de tecnologia SAAS, onde já passei por diversos mercados incluindo E-commerce, Saúde, Comex e Marketing Digital, Mercado Imobiliario. Foi durante essa jornada que minha paixão por tecnologia ficou clara!
+Minha atuação como IS sempre foi em empresas de tecnologia, a grande maioria no modelo SAAS, onde já passei por diversos mercados incluindo E-commerce, Saúde, Comex e Marketing Digital, Mercado Imobiliario. Foi durante essa jornada que minha paixão por tecnologia ficou clara!
 
 Atualmente estou iniciando minha aventura no mundo da programação. Aqui você vai encontrar um pouco do que tenho estudado no curso de Ciencia da Programação. 
 
