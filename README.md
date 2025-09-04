@@ -26,5 +26,4 @@ Atualmente estou iniciando minha aventura no mundo da programação. Aqui você 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black)
 
 
-[![Github Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple)](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple&langs_count=5&layout=compact
-)
+[![Github Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple)](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple&langs_count=5&layout=compact)
