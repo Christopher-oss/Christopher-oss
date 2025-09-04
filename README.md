@@ -28,4 +28,5 @@ Atualmente estou iniciando minha aventura no mundo da programação. Aqui você 
 
 
 
-![Github Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple)
+[![Github Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple)](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-oss&theme=midnight-purple&langs_count=5&layout=compact
+)
